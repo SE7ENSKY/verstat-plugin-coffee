@@ -1,0 +1,7 @@
+{
+  "name": "verstat-plugin-coffee",
+  "version": "1.0.0",
+  "dependencies": {
+    "coffee-script": "~1.6.3"
+  }
+}
